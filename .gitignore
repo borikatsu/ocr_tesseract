@@ -1,0 +1,6 @@
+/logs/*
+!/logs/README.md
+/temporary/*
+!/temporary/README.md
+__pycache__
+utilities/__pycache__
